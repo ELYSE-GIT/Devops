@@ -10,7 +10,7 @@ Objectifs à atteindre TP1 :
 
 ---
 
-#### Mes comptes et sources utilisés
+#### Mes comptes et sources utilisées
 
 * github: https://github.com/ELYSE-GIT/Devops
 * Clé API openweathermap : https://home.openweathermap.org/api_keys
