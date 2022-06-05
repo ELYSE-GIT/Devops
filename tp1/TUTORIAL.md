@@ -21,7 +21,7 @@ Objectifs à atteindre TP1 :
 - Linux (ubuntu) 
 - environnement virtuel (développement en local)
 - Python 
-- Flask & requirements.txt (librairies et framework python avec leurs versions)
+- requirements.txt (packages python avec leurs versions)
 - Docker
 
 ---
