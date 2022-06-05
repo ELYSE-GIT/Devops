@@ -272,7 +272,7 @@ imagetp1.0.1: digest: sha256:635fa1705907fbb5d31dd211555c416e3f0424fe5f63447edb1
 
 
 Remarques : 
-- N'oubliez pas d'exporter votre clé personnel avant d'exécuter
+- N'oubliez pas d'exporter votre clé personnelle avant d'exécuter
 ```export APIKEY=*****``` 
 ```
 docker run --env LAT="48.858370" --env LONG="2.294481" --env APIKEY=$APIKEY --rm rasel5586/tp1-devops:imagetp1.0.1
