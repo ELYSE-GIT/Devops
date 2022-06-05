@@ -36,7 +36,7 @@ $ source venv/bin/activate
 #### Obtention de ma clé privée et profiter de l'API **openweathermap**
 * mettre ma clé dans la variable d'environnement *APIKEY*
 ``` bash
-$ export APIKEY=c1865064c90221bae21160f13bcd0d7d
+$ export APIKEY=c186**********
 ```
 
 * Tester l'api avec ma clé
