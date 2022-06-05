@@ -279,3 +279,4 @@ docker run --env LAT="48.858370" --env LONG="2.294481" --env APIKEY=$APIKEY --rm
 ```
 
 - Lors de la création du script.py, l'url doit être directement intégré dans requests.get() et non par l'intérmédiaire d'une variable url.
+- Dans le fichier requirements, il y des packages qui ne sont pas nécessaires mais j'utiliserais personellement plus tard
